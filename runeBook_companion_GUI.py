@@ -1,4 +1,4 @@
-from Scripts.runeBook import RuneBook
+from Scripts.runebook_companion import RuneBook
 
 mg = 500002
 mk = 500003
